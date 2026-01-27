@@ -15,15 +15,12 @@ baseurl                  : ""
 # Optional, but correct for YOUR repo (can also be removed safely)
 repository               : "abdullah0803-cpu/abdullah0803-cpu.github.io"
 
-# Site Author
 author:
-  name             : "Abdullah Mansour"
+  name: "Abdullah Mansour"
+  avatar: "/images/profile.png"
+  bio: "Computer Science student at the University of Houston"
+  location: "Houston, TX"
 
-  # IMPORTANT: this MUST be a root-relative path
-  avatar           : "profile.png"
-
-  bio              : "Computer Science student at the University of Houston"
-  location         : "Houston, TX"
   employer         : "University of Houston"
   email            : ""
 
