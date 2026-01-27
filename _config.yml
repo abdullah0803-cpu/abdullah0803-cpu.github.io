@@ -20,7 +20,7 @@ author:
   name             : "Abdullah Mansour"
 
   # IMPORTANT: this MUST be a root-relative path
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
 
   bio              : "Computer Science student at the University of Houston"
   location         : "Houston, TX"
