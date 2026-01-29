@@ -2,9 +2,9 @@
 locale: "en-US"
 title: "Abdullah Mansour"
 description: "Abdullah Mansour's academic portfolio"
-url: "https://abdullahmansour01.github.io"
+url: "https://abdullah0803-cpu.github.io"
 baseurl: ""
-repository: "AbdullahMansour01/abdullahmansour01.github.io"
+repository: "abdullah0803-cpu/abdullah0803-cpu.github.io"
 
 # Theme
 site_theme: "default"
